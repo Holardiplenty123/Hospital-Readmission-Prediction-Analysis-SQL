@@ -90,7 +90,7 @@ This includes the analysis and the findings
 
 - The decline in readmission numbers in older adults (81+) may reflect system-level or patient-level factors rather than a true reduced risk.
   
-
+  
 ## To understand the readmission rate of patients
 
 
@@ -101,6 +101,9 @@ Total patients analyzed: 4,996
 - 18.8% of patients were readmitted (about 1 in 5)
 
 - 81.2% were not readmitted
+
+
+  
 
 
 ## Summary
@@ -115,11 +118,15 @@ This readmission rate is clinically significant, as reducing avoidable readmissi
 
 The query results reveal that readmission rates vary depending on where patients are discharged. Patients discharged to Home Health Care have the highest readmission rate at 19.37%, followed closely by those discharged directly to Home at 19.33%. Patients discharged to a Rehabilitation Facility also show a similar risk, with a 19.10% readmission rate. In contrast, those sent to a Skilled Nursing Facility have the lowest readmission rate at 17.35%, suggesting that patients who receive more structured and supervised post-discharge care tend to return to the hospital less frequently.
 
+![](Readmission_Discharge_Location.JPG)
+
 
 
 ## To analyze how the Primary Diagnosis affects the readmission rate
 
 The query results show Patients with Kidney Disease have the highest readmission rate at 19.90%, followed closely by those with Diabetes at 19.49%. Individuals diagnosed with COPD show a readmission rate of 18.53%, while Heart Disease patients have a slightly lower rate of 18.27%. The lowest readmission rate in this group is observed among patients with Hypertension, at 17.79%, indicating that chronic conditions such as kidney disease and diabetes are more strongly associated with hospital return.
+
+![](Readmission_Rate_by_Disease.JPG)
 
 
 
